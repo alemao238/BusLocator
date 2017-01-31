@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1021169992400",
+    "firebase_url": "https://bus-locator-4795a.firebaseio.com",
+    "project_id": "bus-locator-4795a",
+    "storage_bucket": "bus-locator-4795a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021169992400:android:8a075e00181cdc40",
+        "android_client_info": {
+          "package_name": "youknow.mahad.com.buslocator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1021169992400-5c24l59c4pv509r7cielnkn07njll809.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "youknow.mahad.com.buslocator",
+            "certificate_hash": "C7DAA70380A7CC83172E08E1FAEFBCAEC2451DB3"
+          }
+        },
+        {
+          "client_id": "1021169992400-8qgdtenl7mig3v7itcs03dnqdgaci1c8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGXQC60iuE41EQ5NO-ohFiNl275-vy4qY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1021169992400-8qgdtenl7mig3v7itcs03dnqdgaci1c8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
